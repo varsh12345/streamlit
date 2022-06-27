@@ -2,13 +2,13 @@ import numpy as np
 # # from tensorflow.keras.models import Sequential
 # from tensorflow.keras.layers import Dense
 # from tensorflow.keras.layers import LSTM
-from keras.models import load_model
+# from keras.models import load_model
 import streamlit as st
 import pandas as pd
 import pandas_datareader as data
 import matplotlib.pyplot as plt
 import pandas_datareader as pdr
-from keras.models import load_model
+# from keras.models import load_model
 import streamlit as st
 
 
