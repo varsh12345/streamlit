@@ -1,0 +1,12 @@
+numpy
+tensorflow.keras.models
+tensorflow.keras.layers
+tensorflow.keras.layers
+keras.models
+streamlit
+pandas
+pandas_datareader
+matplotlib.pyplot
+pandas_datareader
+keras.models
+streamlit
